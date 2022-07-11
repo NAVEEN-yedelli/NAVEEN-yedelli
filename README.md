@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @NAVEEN-yedelli
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+NAVEEN-yedelli/NAVEEN-yedelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+HEY ..!
+HELLO THIS IS NAVEEN,I AM LOOKING FOR PROJECTS BASED ON PYTHON 
+BASED ON GITHUB  I NEED CREATE MORE AND SCOPE ON PYTHON .BE-HALF EVERY PART IN COUSE OF PYTHON I HAVE LEARNT ALOT OF THING
